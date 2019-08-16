@@ -13,7 +13,7 @@
 
 👤 **The ScratchUtilities Team**
 
-* Github: [@ScratchUtilities](https://github.com/ScratchUtilities)
+- Github: [@ScratchUtilities](https://github.com/ScratchUtilities)
 
 ## 🤝 Contributing
 
@@ -28,5 +28,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2019 [The ScratchUtilities Team](https://github.com/ScratchUtilities).<br />
 This project uses [The Unlicense](https://github.com/ScratchUtilities/scratchutilities.github.io/blob/master/LICENSE).
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
