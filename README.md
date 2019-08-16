@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to scratchutilities.github.io 👋</h1>
 <p>
   <a href="https://ScratchUtilities/scratchutilities.github.io/blob/master/LICENSE">
-    <img alt="License: The Unlicense" src="https://img.shields.io/github/license/ScratchUtilities/scratchutilities.github.io" target="_blank" />
+    <img alt="License: The Unlicense" src="https://img.shields.io/github/license/ScratchUtilities/scratchutilities.github.io.svg" target="_blank" />
   </a>
 </p>
 
