@@ -23,6 +23,8 @@ body {
   max-width: 980px;
   margin: auto;
   padding: 20px;
+  padding-left: 140px;
+  position: relative;
 }
 .menu-item {
   padding: 10px;
@@ -37,4 +39,10 @@ body {
 }
 .menu-logo:hover {
   color: #000;
+}
+
+.SU-logo-menu {
+  width: 120px;
+  position: absolute;
+  margin-left: -120px;
 }
